@@ -1,0 +1,15 @@
+<?php xml version="1.0" encoding="ISO-8859-1"?> 
+<Campos>
+   <campo>
+      <valor>1</valor>
+      <descrip>-- Seleccione --</descrip>
+   </campo>
+   <campo>
+      <valor>2</valor>
+      <descrip>Cartilla</descrip>
+   </campo>
+   <campo>
+      <valor>3</valor>
+      <descrip>Certificado</descrip>
+   </campo>
+</Campos>
